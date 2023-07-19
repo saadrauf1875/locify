@@ -3,8 +3,8 @@
   top: 0;
   left: 0;
   background-color: var(--color-whitesmoke);
-  width: 1920px;
-  height: 960px;
+  width: 2000px;
+  height: 2000px;
 }
 .cover-frame-item {
   position: absolute;
@@ -31,6 +31,7 @@
   top: 875.25px;
   left: 1173.29px;
   color: #99d2f5;
+  background-color: #2a9ad7;
 }
 .travel-website {
   position: absolute;
